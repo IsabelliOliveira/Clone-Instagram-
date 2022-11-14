@@ -1,0 +1,38 @@
+.box {
+    border-radius: 8px;
+}
+
+.story-container {
+    padding: 15px;
+    display: flex;
+    gap: 16px;
+}
+
+.user-elements span{
+    cursor: pointer;
+    flex: 1; 
+}
+
+.user-elements div {
+    width: 61px;
+    height: 61px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(#c82d8e, #f99d4c);
+}
+
+.image-user-story {
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+    border: 2px solid var(--background);
+    object-fit: cover;
+    cursor: pointer;
+}
+
+.user-elements span {
+    font-size: 14px;
+    cursor: pointer;
+}
