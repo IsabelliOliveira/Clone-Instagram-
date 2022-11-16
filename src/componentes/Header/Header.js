@@ -12,7 +12,11 @@ export default  function Header(props) {
 
             <div className='container'>
                 <div className="listItem">
-                
+                <div> <Item icone={<MdHomeFilled />} nome={`Página inicial`} /></div>
+                    <div><Item icone={<RiSearchLine />} nome="Explorar" /></div>
+                    <div><Item icone={<RiMessengerLine />} nome="Mensagens" /></div>
+                    <div><Item icone={<FiHeart />} nome="Notificações" /></div>
+                    <div><Item icone={<FiPlusSquare />} nome="Criar" /></div>
                     <div className="perfil-sidebar">
                         <img src={`https://avatars.githubusercontent.com/u/104120168?v=4`} />
                         <p>Perfil</p>
