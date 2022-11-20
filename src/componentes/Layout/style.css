@@ -1,0 +1,28 @@
+.MainGrid {
+    display: grid;
+    
+    grid-template-areas: "firstColumn secondColumn";
+    grid-template-columns: 474px 293px;
+    grid-gap: 35px;
+
+    max-width: 600px;
+    margin: 0px auto;
+    
+}
+
+.first-column {
+    margin-top: 30px;
+}
+
+.second-column {
+    margin-top: 30px;
+   
+}
+
+.suggestionBox {
+    margin-top: 30px;
+}
+.box {
+    background-image: var(--background);
+    border: 1px solid var(--border);
+}
