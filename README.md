@@ -27,10 +27,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ### Autora
 ---
 
-<a href="https://blog.rocketseat.com.br/author/thiago/">
+<a href="#">
  <img style="border-radius: 50%;" src="https://github.com/IsabelliOliveira.png" width="100px;" alt=""/>
  <br />
- <sub><b>Isabelli Oliveira </b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago//" title="Rocketseat">🚀</a>
+ <sub><b>Isabelli Oliveira </b></sub></a> <a href="#" title="euzinha">🚀</a>
 
 
 Feito com ❤️ por Isabelli Oliveira 👋🏽 Entre em contato!
